@@ -4,3 +4,7 @@ Git has a mutable index called stage.
 zhaohang zhende liu.
 dazuo zhen 6 
 tai diaole
+dazuo tai 6 le
+wairi 
+tai 6 le 
+6de shou bu liao
