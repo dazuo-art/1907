@@ -8,3 +8,4 @@ meiyou
 xiao 
 jiji
 你真是够了！
+你好白啊，天生丽质！
